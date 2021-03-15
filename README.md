@@ -1,3 +1,3 @@
 # Demo
 
-Some random text here...
+Some random text here.
